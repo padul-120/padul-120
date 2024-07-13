@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @padul-120
 - 👀 I’m interested in physics and computer stuff
-- 🌱 I’m currently learning material science
-- 💞️ I’m looking to collaborate on many (some)things
+- 🌱 I’m currently learning condensed matter physics and material science
 - 📫 falhan.fadhil2@gmail.com
 
 
